@@ -5,7 +5,7 @@ import moment from 'moment';
  
 import Divider from '@material-ui/core/Divider';
 import Paper from '@material-ui/core/Paper';
-import renderHTML from 'react-render-html';
+
  
 class SinglePost extends Component {
  
